@@ -1,4 +1,4 @@
-# React Native with apollo POC
+## React Native with apollo POC
 
 Sample project for integrating a public GraphQL API (https://rickandmortyapi.com/graphql/).
 
@@ -16,6 +16,7 @@ For running this application in development mode, the following specs should be 
 
 ```bash
 # Clonning repo
+git clone https://github.com/galias11/rn-with-apollo-poc.git
 
 cd rn-with-apollo-poc
 npm install
