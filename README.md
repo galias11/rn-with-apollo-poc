@@ -1,4 +1,4 @@
-## React Native with apollo POC
+## React Native with Apollo Client POC
 
 Sample project for integrating a public GraphQL API (https://rickandmortyapi.com/graphql/).
 
