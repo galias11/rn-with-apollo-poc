@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@apollo/client": "^3.1.4",
     "expo": "~38.0.9",
     "expo-splash-screen": "^0.5.0",
     "expo-status-bar": "^1.0.0",
@@ -23,9 +24,24 @@
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
+    "@types/jest": "^26.0.13",
+    "@types/react": "^16.9.49",
+    "@types/react-native": "^0.63.14",
+    "@types/react-test-renderer": "^16.9.3",
+    "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "@typescript-eslint/parser": "^4.0.1",
+    "babel-eslint": "^10.1.0",
     "babel-jest": "~25.2.6",
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-airbnb-typescript": "^9.0.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
     "jest": "~25.2.6",
-    "react-test-renderer": "~16.11.0"
+    "react-test-renderer": "~16.11.0",
+    "typescript": "^4.0.2",
+    "typescript-eslint-parser": "^22.0.0"
   },
   "jest": {
     "preset": "react-native"
